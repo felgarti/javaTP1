@@ -1,0 +1,8 @@
+Nom du fichier : personnes.txt 
+
+Nom n°1 : el garti
+prenom : fatima
+dateDeNaissace : 26/06/2000
+Nom n°2 : argane
+prenom : hamza
+dateDeNaissace : 30/10/2000
